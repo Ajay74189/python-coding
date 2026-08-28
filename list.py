@@ -1,0 +1,12 @@
+l=["apple","kiwi","jerry"]
+l.append("grapes")
+print(l)
+l.insert(2,"banana")
+print(l)
+l.remove("kiwi")
+print(l)
+l.pop()
+print(l)
+l.reverse()
+print(l)
+print(len(l))

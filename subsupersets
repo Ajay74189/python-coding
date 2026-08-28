@@ -1,0 +1,4 @@
+s5={1,2}
+s6={1,2,3,4,}
+print(s5.issubset(s6))
+print(s6.issuperset(s5))
