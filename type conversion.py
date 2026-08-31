@@ -1,0 +1,10 @@
+a=3
+b=5,6
+l=[1,3,5,6]
+t=(12,4,5)
+r=True
+print(type(a))
+print(type(b))
+print(type(l))
+print(type(t))
+print(type(r))
