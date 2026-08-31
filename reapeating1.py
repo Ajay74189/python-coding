@@ -1,0 +1,1 @@
+print("python\t"*20)  
