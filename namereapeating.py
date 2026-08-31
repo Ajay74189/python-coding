@@ -1,0 +1,1 @@
+print("Name:ajay\nage:19")
